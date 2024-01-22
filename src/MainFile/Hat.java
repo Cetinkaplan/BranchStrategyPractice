@@ -8,4 +8,7 @@ public class Hat {
 
 
     // its is so expensive
+
+
+    // if you want to wear good one you need to put some more amount to it
 }
